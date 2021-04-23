@@ -23,6 +23,7 @@ I know a lot more but I mainly use those~.
 
 <details>
 <summary>Here's a few random (sometimes cool) projects that I've made:</summary>
-[![]()
-[![]()
+![Pika Space](https://pika-space.us)
+![MicroKit](https://github.com/hack-everything/MicroKit)
+![GPT-4](https://gpt-4.co)
 </details>
