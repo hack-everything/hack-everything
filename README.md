@@ -34,3 +34,6 @@ I know a lot more but I mainly use those~.
     <a href="https://gpt-4.co">GPT-4</a></b>
 
 </details>
+<br>
+<br>
+<b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>(@0sourfruit)</a></b>
