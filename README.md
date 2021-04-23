@@ -23,7 +23,7 @@ I know a lot more but I mainly use those~.
 
 <details>
 <summary>Here's a few random (sometimes cool) projects that I've made:</summary>
-  
+<br>
 [Pika Space](https://pika-space.us)
 <br>
 [MicroKit](https://github.com/hack-everything/MicroKit)
