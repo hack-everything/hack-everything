@@ -5,7 +5,7 @@ I do a bunch of shit and sometimes upload it to Github. I hack, I program and I 
 <br>
 I like using the programming languages listed below, I build robots and I am basically a Pikachu. Oh and I love fucking with governments... specifically the US Government 😉.
 <br>
-
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
