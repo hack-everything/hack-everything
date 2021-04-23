@@ -25,7 +25,7 @@ I know a lot more but I mainly use those~.
 
 
 <details>
-<summary>Here's a few random (sometimes cool) projects that I've made:</summary>
+<summary>Here are a few random (sometimes cool) projects that I've made:</summary>
 <br>
   <b><a href="https://pika-space.us">Pika Space</a>
 <br>
