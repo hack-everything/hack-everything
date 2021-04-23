@@ -24,10 +24,10 @@ I know a lot more but I mainly use those~.
 <details>
 <summary>Here's a few random (sometimes cool) projects that I've made:</summary>
 <br>
-[Pika Space](https://pika-space.us)
+  <a href="https://pika-space.us">Pika Space</a>
 <br>
-[MicroKit](https://github.com/hack-everything/MicroKit)
+  <a href="https://github.com/hack-everything/MicroKit">MicroKit</a>
 <br>
-[GPT-4](https://gpt-4.co)
+  <a href="https://gpt-4.co">GPT-4</a>
 
 </details>
