@@ -36,4 +36,4 @@ I know a lot more but I mainly use those~.
 </details>
 <br>
 <br>
-<b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>@sourfruit</a>)</b>
+<b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>@s0urfruit</a>)</b>
