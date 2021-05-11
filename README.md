@@ -39,4 +39,5 @@ I know a lot more but I mainly use those~.
 <b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>@s0urfruit</a>)</b>
 
 <br>
-Here are some dumb stats too. [![Sourfruit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack-everything)](https://github.com/anuraghazra/github-readme-stats)
+Here are some dumb stats too.
+[![Sourfruit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack-everything)](https://github.com/anuraghazra/github-readme-stats)
