@@ -37,8 +37,6 @@ I know a lot more but I mainly use those~.
 <br>
 <br>
 <b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>@s0urfruit</a>)</b>
-
 <br>
-Here are some dumb stats too.
 
 
