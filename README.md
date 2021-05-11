@@ -32,11 +32,8 @@ I know a lot more but I mainly use those~.
   <a href="https://github.com/hack-everything/MicroKit">MicroKit</a>
 <br>
     <a href="https://gpt-4.co">GPT-4</a></b>
-
 </details>
-<br>
-<br>
 <b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>@s0urfruit</a>)</b>
 <br>
-
+<h2> and here are some kind of cool GitHub Stats. </h2>
 <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=hack-everything&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
