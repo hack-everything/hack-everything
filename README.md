@@ -40,5 +40,5 @@ I know a lot more but I mainly use those~.
 
 <br>
 Here are some dumb stats too.
-[![hack-everything's GitHub stats](https://github-readme-stats.vercel.app/api?username=hack-everything)](https://github.com/hack-everything/hack-everything)
+
 
