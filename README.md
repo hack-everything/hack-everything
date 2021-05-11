@@ -38,3 +38,8 @@ I know a lot more but I mainly use those~.
 <br>
 <h2 align=center> and here are some kind of cool GitHub Stats. </h2>
 <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=hack-everything&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<br>
+  Here are a few ways you can contact me:<br/>
+  <a href="mailto:hello@def-not-hacking-the.net?subject=[Helllo there~]"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://twitter.com/s0urfruit"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
