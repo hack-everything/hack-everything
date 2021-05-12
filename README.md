@@ -38,4 +38,7 @@ I know a lot more but I mainly use those~.
 <br>
 <h2 align=center> and here are some kind of cool GitHub Stats. </h2>
 <img align="center" width="1090" height="165" src="https://github-readme-stats.vercel.app/api?username=hack-everything&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<br>
+<br>
 
+<h4>Psssst. On a sad note, most of my repositories are licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International license, though I'll make sure to gradually release all of my repos into the public domain, or under a less-restrictive license.</h4>
