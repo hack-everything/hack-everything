@@ -41,4 +41,4 @@ I know a lot more but I mainly use those~.
 <br>
 <br>
 
-<h4>Psssst. On a sad note, _most_ of my repositories are licensed under the Creative Commons (CC) Attribution-NonCommercial-NoDerivatives 4.0 International license, though I'll make sure to gradually release all of my repos into the public domain, or under a less-restrictive license.</h4>
+<h4>Psssst. On a sad note, most of my repositories are licensed under the Creative Commons (CC) Attribution-NonCommercial-NoDerivatives 4.0 International license, though I'll make sure to gradually release all of my repos into the public domain, or under a less-restrictive license.</h4>
