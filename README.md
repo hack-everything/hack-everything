@@ -33,7 +33,7 @@ I know a lot more but I mainly use those~.
 <br>
     <a href="https://gpt-4.co">GPT-4</a>
 <br>
-    <a href="https://github.com/s0urfruit/fuck"<Fuck™</a></b>
+    <a href="https://github.com/s0urfruit/fuck">Fuck™</a></b>
 </details>
 <b>You can find me on Twitter! (<a href='https://twitter.com/s0urfruit'>@s0urfruit</a>)</b>
 <br>
