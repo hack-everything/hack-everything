@@ -39,7 +39,6 @@ I know a lot more but I mainly use those~.
 <br>
 <br>
 <h2 align=center> and here are some kind of cool GitHub Stats. </h2>
-note it's kind of broken -- thanks github
 <img align="center" width="1090" height="165" src="https://github-readme-stats.vercel.app/api?username=s0urfruit&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <br>
 <br>
