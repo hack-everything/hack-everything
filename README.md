@@ -14,7 +14,7 @@ I like using the programming languages listed below, I build robots and I am bas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-and I also do web development & the occasional Electron app, so:
+and I also do APIs & web development & the occasional Electron app, so:
 <br>
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
