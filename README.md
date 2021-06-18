@@ -44,8 +44,6 @@ I know a lot more but I mainly use those~.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=s0urfruit&show_icons=true&hide_border=true&count_private=true&theme=dark)
-
-
 <br>
 <br>
 
