@@ -1,7 +1,18 @@
 <h1 align=center>Hey there! I'm Sourfruit.</h1>
 <br>
-I do a bunch of shit and sometimes upload it to Github. I hack, I program and I sometimes engineer. I also definitely forgot these existed... basically:
+
+![](https://komarev.com/ghpvc/?username=s0urfruit&label=Profile+views&style=flat-square)
+<p align="center" style="font-size: 13px">
+  <i>
+    Documentation is like sex.<br>
+    When it's good, it's very good.<br>
+    When it's bad, it's better than nothing.
+  </i>
+</p>
+
 <br>
+I do a bunch of shit and sometimes upload it to Github. I hack, I program and I sometimes engineer. I also definitely forgot these existed... basically:
+<br><br>
 <details>
 <summary>Here are a few random (sometimes cool) projects that I've made:</summary>
 <br>
