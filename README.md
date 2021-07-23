@@ -1,7 +1,7 @@
 <h1 align=center>Hey there! I'm Sourfruit.</h1>
 <br>
 
-![](https://komarev.com/ghpvc/?username=s0urfruit&label=Profile+views&style=flat-square)
+![](https://komarev.com/ghpvc/?username=s0urfruit&label=Profile+views&style=flat-square) (since July ~20th)
 <p align="center" style="font-size: 13px">
   <i>
     Documentation is like sex.<br>
