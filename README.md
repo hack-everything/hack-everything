@@ -11,7 +11,7 @@
 </p>
 
 <br>
-I do a bunch of shit and sometimes upload it to Github. I hack, I program and I sometimes engineer. I also definitely forgot these existed... basically:
+I do a bunch of shit and sometimes upload it to Github. I hack, I program and I sometimes engineer. I also definitely forgot these READMEs existed... basically:
 <br><br>
 <details>
 <summary>Here are a few random (sometimes cool) projects that I've made: << This is being revamped, and it's no longer accurate </summary>
