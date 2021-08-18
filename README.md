@@ -14,7 +14,7 @@
 I do a bunch of shit and sometimes upload it to Github. I hack, I program and I sometimes engineer. I also definitely forgot these existed... basically:
 <br><br>
 <details>
-<summary>Here are a few random (sometimes cool) projects that I've made:</summary> << This is being revamped, and it's no longer accurate 
+<summary>Here are a few random (sometimes cool) projects that I've made: << This is being revamped, and it's no longer accurate </summary>
 <br>
   <b><a href="https://pika-space.us">Pika Space</a>
 <br>
