@@ -2,6 +2,12 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=s0urfruit&label=Profile+views&style=flat-square)
+```
+CURRENT PRIVATE REPOS: 25
+CURRENT PUBLIC REPOS: 13
+IN ALL: 38
+```
+
 <p align="center" style="font-size: 13px">
   <i>
     Documentation is like sex.<br>
